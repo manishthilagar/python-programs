@@ -10,5 +10,5 @@ for i in range(l):
       print(s[j],end="")
     else:
       print(" ",end="")
-  print(end="/n")    
+  print(end="/n")
   
